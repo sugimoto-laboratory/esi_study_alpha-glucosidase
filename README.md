@@ -19,5 +19,4 @@ This repository provides the main materials associated with the study, including
 
 Due to file size , some raw computational files—particularly full *Gaussian* output files and certain extended computational details—are not included in this public repository. A summary of the computational workflow is provided in the manuscript and Supplementary Information.
 
-Additional raw files may be shared **upon reasonable request**, subject to file organization and availability.  
-If you would like access to materials not included here, please contact the corresponding author.
+Additional raw files may be shared **upon reasonable request**, subject to file organization and availability. If you would like access to materials not included here, please contact the corresponding author.
