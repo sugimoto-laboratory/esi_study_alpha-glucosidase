@@ -11,9 +11,9 @@ This repository contains the data, code, and key outputs supporting our manuscri
 
 This repository provides the main materials associated with the study, including:
 
-- **Machine-learning datasets and model outputs** (ESI-based models and baseline models, where applicable)
-- **Natural-product (NP) screening results** (ranked hit lists and related analyses)
-- **Docking results** (scores/poses and associated summaries)
+- **Machine-learning datasets and model outputs** (ESI-based models and baseline models (using each descriptor set from RDKit and ECFP4))
+- **Natural-product (NP) screening results** (ranked NP hit lists and related analyses)
+- **Docking results** (vina scores, docking poses and associated summaries)
 
 ## Notes on raw QM files
 
