@@ -5,7 +5,7 @@ This repository contains the data, code, and key outputs supporting our manuscri
 **"Is Scaffold Hopping Possible in Machine Learning Using the Electronic-Structure-Informatics (ESI) descriptor set? An Application to Natural-Product-Based Drug Discovery of α-Glucosidase Inhibitors"**  
 *Yusuke Tateishi, Manabu Sugimoto*
 
-![Figure 1: overview](Figures/graphical_abstract.pdf)
+![Figure 1: overview](Figures/graphical_abstract.png)
 
 ## Contents
 
