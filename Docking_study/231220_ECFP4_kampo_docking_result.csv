@@ -1,0 +1,51 @@
+ID,name,cid,pIC50,vina_affinity,smiles
+kampo_1716,Humulene epoxide II,10704181,5.94,-6.22,CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C
+kampo_2193,"N-(2,4-Dimethoxyphenyl)-2-methyl-3-nitrobenzamide",773708,5.90,-7.08,CC1=C(C=CC=C1[N+](=O)[O-])C(=O)NC2=C(C=C(C=C2)OC)OC
+kampo_0309,"2,2,6-Trimethyl-1-oxaspiro[2.5]oct-5-ene",107303,5.88,-5.68,CC1=CCC2(CC1)C(O2)(C)C
+kampo_1542,Germacrone,6436348,5.87,-6.52,CC1=CCC(=C(C)C)C(=O)CC(=CCC1)C
+kampo_1540,Germacrene B,5281519,5.86,-6.36,CC1=CCCC(=CCC(=C(C)C)CC1)C
+kampo_0543,4-Acetylbenzo[d]oxazol-2(3H)-one,9989779,5.85,-6.36,CC(=O)C1=C2C(=CC=C1)OC(=O)N2
+kampo_2719,Terpinolene,11463,5.81,-5.74,CC1=CCC(=C(C)C)CC1
+kampo_1767,Isocaryophyllene,5281522,5.80,-6.22,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+kampo_2924,beta-Caryophyllene,5281515,5.80,-6.50,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+kampo_1715,Humulene,5281520,5.79,-6.32,CC1=CCC(C=CCC(=CCC1)C)(C)C
+kampo_2893,alpha-Chamigrene,442351,5.79,-6.28,CC1=CCC2(CC1)C(=CCCC2(C)C)C
+kampo_2718,Terpinen-4-ol,11230,5.79,-6.12,CC1=CCC(CC1)(C(C)C)O
+kampo_2993,"p-Mentha-1,8-dien-4-ol",527428,5.79,-6.20,CC1=CCC(CC1)(C(=C)C)O
+kampo_0059,(-)-Terpinen-4-ol,5325830,5.79,-6.05,CC1=CCC(CC1)(C(C)C)O
+kampo_2047,Magnolianone,16739270,5.78,-7.03,COC1=CC(=O)C=C(C1(CC=CC2=CC(=C(C=C2)O)OC)OC)OC
+kampo_2853,Zerumbone,5470187,5.77,-6.71,CC1=CCC(C=CC(=O)C(=CCC1)C)(C)C
+kampo_0048,(-)-Germacrene D,5317570,5.75,-6.57,CC1=CCCC(=C)C=CC(CC1)C(C)C
+kampo_0665,5-Isopropyl-2-methyl-2-cyclohexen-1-one,521267,5.74,-5.63,CC1=CCC(CC1=O)C(C)C
+kampo_2118,Methyl salicylate,4133,5.74,-5.93,COC(=O)C1=CC=CC=C1O
+kampo_0032,(-)-Acutumine,176893,5.73,-6.97,CN1CCC23C1(CC(C24C(C(=CC4=O)OC)O)Cl)C(=C(C(=O)C3)OC)OC
+kampo_2710,Tellimagradin I,73179,5.72,-8.05,C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C(C(C=O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)O
+kampo_0304,2'-Methylacetophenone,11340,5.72,-5.51,CC1=CC=CC=C1C(=O)C
+kampo_1325,D-Limonene,440917,5.70,-5.87,CC1=CCC(CC1)C(=C)C
+kampo_0055,(-)-Limonene,439250,5.70,-5.99,CC1=CCC(CC1)C(=C)C
+kampo_1991,Limonene,22311,5.70,-6.01,CC1=CCC(CC1)C(=C)C
+kampo_1377,Dihydrocostunolide,5367639,5.68,-6.91,CC1C2CCC(=CCCC(=CC2OC1=O)C)C
+kampo_0150,"(3S,3As,10E,11aS)-3,6,10-trimethyl-3a,4,5,8,9,11a-hexahydro-3H-cyclodeca[b]furan-2-one",6475829,5.68,-7.05,CC1C2CCC(=CCCC(=CC2OC1=O)C)C
+kampo_0812,Akuammigine pseudoindoxyl,181921,5.68,-9.10,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C(=O)C5=CC=CC=C5N4
+kampo_0303,2'-Hydroxyacetophenone,8375,5.68,-5.94,CC(=O)C1=CC=CC=C1O
+kampo_0292,19-Epi-3-Isoajmalicine,179461,5.68,-8.66,CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45
+kampo_0293,19-Epi-Ajmalicine,179460,5.68,-8.86,CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45
+kampo_2725,Tetrahydroalstonine,72340,5.68,-8.21,CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45
+kampo_0501,3-Isoajmalicine,11416867,5.68,-8.22,CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45
+kampo_1938,Lamuran,251561,5.68,-8.56,CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45
+kampo_2484,Rauniticine,72338,5.68,-7.99,CC1C2CN3CCC4=C(C3CC2C(=CO1)C(=O)OC)NC5=CC=CC=C45
+kampo_2779,Uncarine A,188999,5.66,-7.92,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_1819,Isopteropodine,9885603,5.66,-7.87,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_1818,Isopteropodin,98363,5.66,-8.64,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_2656,Speciophylline,168985,5.66,-9.47,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_1807,Isomitraphylline,11726520,5.66,-7.82,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_2782,Uncarine c,10429112,5.66,-9.04,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_2780,Uncarine B,12304286,5.66,-8.31,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_2781,Uncarine F,12304288,5.66,-8.79,CC1C2CN3CCC4(C3CC2C(=CO1)C(=O)OC)C5=CC=CC=C5NC4=O
+kampo_2992,"p-Menth-6-en-2-ol, (2S,4S)-(+)-",534485,5.65,-6.20,CC1=CCC(CC1O)C(C)C
+kampo_1280,Costunolide,5281437,5.64,-6.87,CC1=CCCC(=CC2C(CC1)C(=C)C(=O)O2)C
+kampo_0069,"(1Ar,4R,7bS)-1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydrocyclopropa[e]azulene",16213731,5.63,-6.41,CC1CCC2C(C2(C)C)C3=C(CCC13)C
+kampo_0038,(-)-Carvomenthone,6432474,5.62,-5.66,CC1CCC(CC1=O)C(C)C
+kampo_0250,1-Deoxy-D-xylulose 5-phosphate,443201,5.61,-6.06,CC(=O)C(C(COP(=O)(O)O)O)O
+kampo_0970,CID 101280179,101280179,5.61,-8.90,CC1(C2CCC3(C(C2(CCC1O)C)C(=O)C=C4C3(CC5C6(C4CC(C(C6)O5)(C)C(=O)O)C)C)C)C
+kampo_0507,3-Methyleicosane,98417,5.60,-5.74,CCCCCCCCCCCCCCCCCC(C)CC

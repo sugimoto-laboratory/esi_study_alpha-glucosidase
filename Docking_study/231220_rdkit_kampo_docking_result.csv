@@ -1,0 +1,51 @@
+ID,name,cid,pIC50,vina_affinity,smiles
+kampo_0294,"19-Hydroxy-3,13,21-triazapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1(21),2(10),4,6,8,11,15(20),16,18-nonaen-14-one",13971001,5.82,-9.73,C1=CC=C2C(=C1)C3=C(N2)C4=NC5=C(C=CC=C5O)C(=O)N4C=C3
+kampo_2653,Soystatin,10056408,5.81,-9.75,CC(C)C(C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCSC)C(=O)NC(CC5=CC=C(C=C5)O)C(=O)O)N
+kampo_1159,Canthin-6-one,97176,5.72,-7.89,C1=CC=C2C(=C1)C3=C4N2C(=O)C=CC4=NC=C3
+kampo_1079,CID 135398635,135398635,5.63,-7.92,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)N=C(NC2=O)N
+kampo_0829,Allantoin,204,5.60,-6.04,C1(C(=O)NC(=O)N1)NC(=O)N
+kampo_2734,Theobromine,5429,5.59,-5.44,CN1C=NC2=C1C(=O)NC(=O)N2C
+kampo_0508,3-Methylxanthine,70639,5.59,-5.69,CN1C2=C(C(=O)NC1=O)NC=N2
+kampo_1091,CID 135764968,135764968,5.56,-8.48,CCC1=C(C2=CC3=C(C(=C(N3)C=C4C(C(=C(N4)C5=C(OC(=O)C6=C(C(=CC1=N2)N=C65)C)O)CCC(=O)OC)C)C)C=C)C
+kampo_2834,Xanthine,1188,5.56,-5.64,C1=NC2=C(N1)C(=O)NC(=O)N2
+kampo_2197,N-Carbamoylputrescine,502,5.54,-5.29,C(CCNC(=O)N)CN
+kampo_2340,Paraxanthine,4687,5.53,-5.53,CN1C=NC2=C1C(=O)N(C(=O)N2)C
+kampo_2736,Theophylline,2153,5.53,-5.60,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+kampo_2193,"N-(2,4-Dimethoxyphenyl)-2-methyl-3-nitrobenzamide",773708,5.52,-7.06,CC1=C(C=CC=C1[N+](=O)[O-])C(=O)NC2=C(C=C(C=C2)OC)OC
+kampo_0802,Adenine,190,5.51,-5.96,C1=NC2=NC=NC(=C2N1)N
+kampo_0394,2-Piperidone,12665,5.51,-4.78,C1CCNC(=O)C1
+kampo_2359,Perlolyrine,160179,5.49,-8.51,C1=CC=C2C(=C1)C3=C(N2)C(=NC=C3)C4=CC=C(O4)CO
+kampo_1726,Hydroxyurea,3657,5.48,-4.93,C(=O)(N)NO
+kampo_2062,Manassantin A,15605952,5.47,-7.69,CC1C(C(OC1C2=CC(=C(C=C2)OC(C)C(C3=CC(=C(C=C3)OC)OC)O)OC)C4=CC(=C(C=C4)OC(C)C(C5=CC(=C(C=C5)OC)OC)O)OC)C
+kampo_2137,Michler's ketone,7031,5.46,-6.77,CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C
+kampo_1741,Indole-3-acetamide,397,5.44,-7.21,C1=CC=C2C(=C1)C(=CN2)CC(=O)N
+kampo_3002,trans-Zeatin,449093,5.44,-6.86,CC(=CCNC1=NC=NC2=C1NC=N2)CO
+kampo_1161,Capillarisin,5281342,5.43,-8.10,COC1=C(C2=C(C=C1O)OC(=CC2=O)OC3=CC=C(C=C3)O)O
+kampo_1483,Formanilide,7671,5.42,-5.42,C1=CC=C(C=C1)NC=O
+kampo_0603,"5,13,23-Trihydroxy-27-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-6,22-bis(3-methylbut-2-enyl)-8,10,26,28-tetraoxaheptacyclo[15.11.0.01,9.02,7.011,16.018,27.020,25]octacosa-2(7),3,5,11(16),12,14,20(25),21,23-nonaen-19-one",78200726,5.41,-8.27,CC(=CCC1=CC2=C(C=C1O)OC3(C(C2=O)C4C5=C(C=C(C=C5)O)OC6C4(O3)C7=C(O6)C(=C(C=C7)O)CC=C(C)C)C8=CC(=C(C=C8)O)CC=C(C)C)C
+kampo_1933,L-Pyroglutamic acid,7405,5.40,-5.45,C1CC(=O)NC1C(=O)O
+kampo_1153,Cannabisin F,71448967,5.39,-9.22,COC1=C(C=CC(=C1)C=CC(=O)NCCC2=CC=C(C=C2)O)OC(=CC3=CC(=C(C=C3)O)OC)C(=O)NCCC4=CC=C(C=C4)O
+kampo_2517,Rotundine A,10728239,5.39,-6.19,CC1=NC=CC2=C1CC(C2(C)C)CCC(=O)C
+kampo_1086,CID 135413564,135413564,5.39,-6.65,C1=CC=C2C(=C1)C3=C(N2)SN=C3
+kampo_2804,Uridine,6029,5.39,-7.00,C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O
+kampo_2667,Stepharine,98455,5.38,-7.90,COC1=C(C2=C3C(CC24C=CC(=O)C=C4)NCCC3=C1)OC
+kampo_2000,Lindenenone,46173904,5.37,-7.02,CC1=COC2=C1C(=O)C3=C(C4CC4C3(C2)C)C
+kampo_1280,Costunolide,5281437,5.37,-6.86,CC1=CCCC(=CC2C(CC1)C(=C)C(=O)O2)C
+kampo_2063,Manassantin B,10439828,5.36,-9.14,CC1C(C(OC1C2=CC(=C(C=C2)OC(C)C(C3=CC4=C(C=C3)OCO4)O)OC)C5=CC(=C(C=C5)OC(C)C(C6=CC(=C(C=C6)OC)OC)O)OC)C
+kampo_2988,p-Coumaroylputrescine,6439562,5.36,-6.83,C1=CC(=CC=C1C=CC(=O)NCCCCN)O
+kampo_1311,Cyclomethyltryptophan,449440,5.36,-7.94,C1C(NCC2=C1C3=CC=CC=C3N2)C(=O)O
+kampo_2151,Moracin M,185848,5.36,-8.27,C1=CC2=C(C=C1O)OC(=C2)C3=CC(=CC(=C3)O)O
+kampo_1475,Ferulamide,6433734,5.35,-6.72,COC1=C(C=CC(=C1)C=CC(=O)N)O
+kampo_0320,"2,4-Dihydroxy-2H-1,4-benzoxazin-3(4H)-one",28495,5.35,-6.40,C1=CC=C2C(=C1)N(C(=O)C(O2)O)O
+kampo_1934,L-Theanine,439378,5.34,-5.71,CCNC(=O)CCC(C(=O)O)N
+kampo_1080,CID 135398638,135398638,5.34,-5.58,C1=NC2=C(N1)C(=O)NC=N2
+kampo_2210,N-[(3s)-2-Oxotetrahydrofuran-3-Yl]butanamide,10130163,5.34,-5.66,CCCC(=O)NC1CCOC1=O
+kampo_1186,Chalcone,637760,5.34,-7.41,C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2
+kampo_0828,Allantoic acid,203,5.34,-6.59,C(C(=O)O)(NC(=O)N)NC(=O)N
+kampo_2240,Nicotinamide,936,5.33,-5.29,C1=CC(=CN=C1)C(=O)N
+kampo_2211,N-[(3s)-2-Oxotetrahydrofuran-3-Yl]hexanamide,10058590,5.33,-5.64,CCCCCC(=O)NC1CCOC1=O
+kampo_1672,Harman,5281404,5.33,-7.11,CC1=NC=CC2=C1NC3=CC=CC=C23
+kampo_1239,Citrulline,9750,5.32,-5.96,C(CC(C(=O)O)N)CNC(=O)N
+kampo_2556,Sarcosine,1088,5.32,-3.95,CNCC(=O)O
+kampo_2593,Serotonin,5202,5.32,-6.84,C1=CC2=C(C=C1O)C(=CN2)CCN
+kampo_0669,5-Methylhydantoin,69216,5.32,-5.14,CC1C(=O)NC(=O)N1
