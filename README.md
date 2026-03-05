@@ -1,14 +1,23 @@
-# esi_sudy_alpha-glucosidase
-This repository provides the main data and results associated with our study, including:
-	•	machine-learning datasets and model outputs
-	•	natural-product screening results
-	•	docking results
-	•	2D visualizations of representative compounds and interactions
+# Electronic-Structure Information applicatation for in silico screening alpha-glucosidase inihbitors from Natural Products databese
 
-These files are provided to support transparency and reproducibility of the analyses reported in the manuscript.
+This repository contains the data, code, and key outputs supporting our manuscript:
 
-Because of file size and repository management considerations, some raw computational files—particularly full Gaussian output files and certain detailed computational protocols—are not included in this public repository. These materials may be shared upon reasonable request, subject to file organization and availability.
+**"Is Scaffold Hopping Possible in Machine Learning Using the Electronic-Structure-Informatics (ESI) descriptor set? An Application to Natural-Product-Based Drug Discovery of α-Glucosidase Inhibitors"**  
+*Yusuke Tateishi, Manabu Sugimoto*
 
+![Figure 1: overview](figures/figure1.png)
+
+## Contents
+
+This repository provides the main materials associated with the study, including:
+
+- **Machine-learning datasets and model outputs** (ESI-based models and baseline models, where applicable)
+- **Natural-product (NP) screening results** (ranked hit lists and related analyses)
+- **Docking results** (scores/poses and associated summaries)
+
+## Notes on raw QM files
+
+Due to file size , some raw computational files—particularly full *Gaussian* output files and certain extended computational details—are not included in this public repository. A summary of the computational workflow is provided in the manuscript and Supplementary Information.
+
+Additional raw files may be shared **upon reasonable request**, subject to file organization and availability.  
 If you would like access to materials not included here, please contact the corresponding author.
-
-
