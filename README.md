@@ -1,5 +1,5 @@
 # Electronic-Structure Informatics applicatation for _in silico_ screening for alpha-glucosidase inihbitors from Natural Products databese
- 
+
 This repository contains the data, code, and key outputs supporting our manuscript:
 
 **"Is Scaffold Hopping Possible in Machine Learning Using the Electronic-Structure-Informatics (ESI) descriptor set? An Application to Natural-Product-Based Drug Discovery of α-Glucosidase Inhibitors"**  
