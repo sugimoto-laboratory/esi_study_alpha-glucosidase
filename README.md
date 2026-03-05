@@ -1,4 +1,4 @@
-# Electronic-Structure Informatics applicatation for _in silico_ screening alpha-glucosidase inihbitors from Natural Products databese
+# Electronic-Structure Informatics applicatation for _in silico_ screening for alpha-glucosidase inihbitors from Natural Products databese
 
 This repository contains the data, code, and key outputs supporting our manuscript:
 
